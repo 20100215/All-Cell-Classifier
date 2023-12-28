@@ -7,6 +7,7 @@ Acute Lymphoblastic Leukemia (ALL), caused by the continuous multiplication of m
 
 ### Dataset:
 ALL Challenge dataset of ISBI 2019 (C-NMC 2019) | The Cancer Imaging Archive
+
 Download here: https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=52758223
 
 ### Experiments and results:
@@ -25,7 +26,7 @@ Download here: https://tinyurl.com/ALLClassifierModels
 5. Create the executable file for the application.
 	- `pyinstaller --onefile ALLClassifier.py`.
 	- The `--onefile` flag creates a single file bundled executable.
-6. Ensure the [model files](#model-files) are downloaded and placed inside `Models/` subdirectory.
+6. Ensure the [model files](https://tinyurl.com/ALLClassifierModels) are downloaded and placed inside `Models/` subdirectory.
 7. Run the `ALLClassifier.exe` application. 
 	 - Refer to the user manual for the instructions in using the application. 
-	 - Test the application using the [dataset](#dataset) provided above.
+	 - Test the application using the [dataset](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=52758223) provided above.
