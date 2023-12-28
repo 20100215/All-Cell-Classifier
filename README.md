@@ -1,7 +1,6 @@
 
 ## Automated Blast Cell Detection For Acute Lymphoblastic Leukemia Using a Stacking Ensemble of Convolutional Neural Networks
-By: Wayne Matthew Dayata and Sabrinah Yonell Yap
-November 2023
+Wayne Matthew A. Dayata, Sabrinah Yonell C. Yap, Christine D. Bandalan  |  November 2023
 
 ## About the project:
 Acute Lymphoblastic Leukemia (ALL), caused by the continuous multiplication of malignant overproduction and immature white blood cells (WBCs), is one of the most common types of leukemia among children and adults with a high mortality rate mainly because of its late detection and diagnosis. This thereby drives the need to create systems that aid pathologists in the morphological analysis and detection of ALL blast cells, reducing error rates and increasing the likelihood of survival among ALL patients as a result. Five Convolutional Neural Network (CNN) models: ConvNeXtTiny, MobileNetV2, EfficientNetV2B3, InceptionV3, and DenseNet-121 were integrated into a stacking ensemble to distinguish ALL cells from healthy cells accurately. The results show that the proposed ensemble was able to better support clinical decisions to detect ALL in patients than the individual CNN models do.
