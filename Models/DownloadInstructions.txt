@@ -1,0 +1,2 @@
+Go to http://tinyurl.com/ALLClassifierModels and download the 6 model
+files in the given folder. Then place the files in the same folder where this text file is.
